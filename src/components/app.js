@@ -7,8 +7,8 @@ export default class App extends Component {
   render() {
     return (
       <div>
-		<h3>Please Search in egyptian countries</h3>
-		<span>examples: Cairo, Giza</span>
+		<h3>Please Search in egypt governorates</h3>
+		<span>examples: Cairo, Giza, Alexandria, Aswan, Suez</span>
       	<SearchBar />
       	<WeatherList />
       </div>
